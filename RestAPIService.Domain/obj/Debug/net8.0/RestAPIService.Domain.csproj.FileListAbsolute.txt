@@ -1,0 +1,11 @@
+D:\Documents\RestAPIService\RestAPIService.Domain\bin\Debug\net8.0\RestAPIService.Domain.deps.json
+D:\Documents\RestAPIService\RestAPIService.Domain\bin\Debug\net8.0\RestAPIService.Domain.dll
+D:\Documents\RestAPIService\RestAPIService.Domain\bin\Debug\net8.0\RestAPIService.Domain.pdb
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.AssemblyInfoInputs.cache
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.AssemblyInfo.cs
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.dll
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\refint\RestAPIService.Domain.dll
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.pdb
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\ref\RestAPIService.Domain.dll

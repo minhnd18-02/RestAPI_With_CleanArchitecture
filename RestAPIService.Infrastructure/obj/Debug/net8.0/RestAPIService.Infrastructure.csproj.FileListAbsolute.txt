@@ -1,0 +1,17 @@
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Infrastructure.deps.json
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Infrastructure.dll
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Infrastructure.pdb
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.AssemblyInfoInputs.cache
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.AssemblyInfo.cs
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.dll
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\refint\RestAPIService.Infrastructure.dll
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.pdb
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\ref\RestAPIService.Infrastructure.dll
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Infrastructure.runtimeconfig.json
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.csproj.AssemblyReference.cache
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.genruntimeconfig.cache
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Domain.dll
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Domain.pdb
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIS.5EB7B3DB.Up2Date
