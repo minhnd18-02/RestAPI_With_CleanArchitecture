@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RestAPIService.Application.IServices;
 using RestAPIService.Application.ViewModels.LoginModel;
+using RestAPIService.Application.ViewModels.RegisterModel;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -17,10 +18,24 @@ namespace RestAPIService.Controllers
 
         }
 
-        [HttpPost]
+        [HttpPost("login")]
         public async Task<IActionResult> Login(LoginTokenRequest loginRequest)
         {
             var result = await _service.Login(loginRequest);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            else
+            {
+                return BadRequest(result);
+            }
+        }
+
+        [HttpPost("register")]
+        public async Task<IActionResult> Register(RegisterRequest registerRequest)
+        {
+            var result = await _service.Register(registerRequest);
             if (result.Success)
             {
                 return Ok(result);

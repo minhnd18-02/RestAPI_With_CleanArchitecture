@@ -1,5 +1,6 @@
 ﻿using RestAPIService.Application.ViewModels;
 using RestAPIService.Application.ViewModels.LoginModel;
+using RestAPIService.Application.ViewModels.RegisterModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,5 +16,6 @@ namespace RestAPIService.Application.IServices
         string GenerateRefreshToken();
         ClaimsPrincipal GetPrincipalFromExpiredToken(string token);
         Task<ServiceReponse<LoginResponse>> Login(LoginTokenRequest loginRequest);
+        Task<ServiceReponse<RegisterReponse>> Register(RegisterRequest registerRequest);
     }
 }

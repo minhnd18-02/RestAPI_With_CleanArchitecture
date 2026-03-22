@@ -15,3 +15,4 @@ D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestA
 D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Domain.dll
 D:\Documents\RestAPIService\RestAPIService.Infrastructure\bin\Debug\net8.0\RestAPIService.Domain.pdb
 D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIS.5EB7B3DB.Up2Date
+D:\Documents\RestAPIService\RestAPIService.Infrastructure\obj\Debug\net8.0\RestAPIService.Infrastructure.sourcelink.json

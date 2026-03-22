@@ -111,8 +111,8 @@ builder.Services.AddDbContext<ApiContext>(options =>
 //---------------------------------- Add Dependency Injection ---------------------------------//
 builder.Services.AddRepositories();
 builder.Services.Services();
-
-
+//--------------------------------- Add AutoMapper -------------------------------------//
+builder.Services.AddAutoMapper(cfg => cfg.AddProfile<MappingConfiguration>());
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.

@@ -1,8 +1,11 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using AutoMapper;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using RestAPIService.Application.IServices;
 using RestAPIService.Application.ViewModels;
 using RestAPIService.Application.ViewModels.LoginModel;
+using RestAPIService.Application.ViewModels.RegisterModel;
+using RestAPIService.Domain.Entities;
 using RestAPIService.Domain.Interfaces;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -16,10 +19,12 @@ namespace RestAPIService.Application.Services
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IConfiguration _configuration;
-        public AuthService(IConfiguration configuration, IUnitOfWork unitOfWork)
+        private readonly IMapper _mapper;
+        public AuthService(IConfiguration configuration, IUnitOfWork unitOfWork, IMapper mapper)
         {
             _configuration = configuration;
             _unitOfWork = unitOfWork;
+            _mapper = mapper;
         }
         public string GenerateAccessToken(IEnumerable<Claim> claims)
         {
@@ -97,6 +102,48 @@ namespace RestAPIService.Application.Services
                     AccessToken = accessToken,
                     Role = check.RoleId.ToString()
                 };
+            }
+            catch (Exception ex)
+            {
+                response.Success = false;
+                response.Message = ex.Message;
+                response.ErrorMessages = new List<string> { ex.Message };
+            }
+            return response;
+        }
+
+        public async Task<ServiceReponse<RegisterReponse>> Register(RegisterRequest registerRequest)
+        {
+            var response = new ServiceReponse<RegisterReponse>();
+            try
+            {
+                var check = await _unitOfWork.UserRepo.FindEntityAsync(s => s.Email.Equals(registerRequest.Email));
+                if (check != null)
+                {
+                    response.Success = false;
+                    response.Message = "Email already exists";
+                    return response;
+                }
+
+                var role = await _unitOfWork.RoleRepo.FindEntityAsync(r => r.Id == 3);
+
+                if (role == null)
+                {
+                    response.Success = false;
+                    response.Message = "Default role not found";
+                    return response;
+                }
+
+                var newMember = _mapper.Map<User>(registerRequest);
+                newMember.RoleId = role.Id;
+                await _unitOfWork.UserRepo.AddAsync(newMember); 
+
+                var responseData = await _unitOfWork.UserRepo.GetByIdAsync(newMember.Id);
+
+                response.Success = true;
+                response.Message = "Register Successfully";
+                response.Data = _mapper.Map<RegisterReponse>(responseData);
+              
             }
             catch (Exception ex)
             {

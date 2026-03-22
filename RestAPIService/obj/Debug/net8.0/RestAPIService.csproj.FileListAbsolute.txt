@@ -91,3 +91,6 @@ D:\Documents\RestAPIService\RestAPIService\obj\Debug\net8.0\RestAPIService.pdb
 D:\Documents\RestAPIService\RestAPIService\obj\Debug\net8.0\RestAPIService.genruntimeconfig.cache
 D:\Documents\RestAPIService\RestAPIService\obj\Debug\net8.0\ref\RestAPIService.dll
 D:\Documents\RestAPIService\RestAPIService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\RestAPIService\RestAPIService\bin\Debug\net8.0\AutoMapper.dll
+D:\Documents\RestAPIService\RestAPIService\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\RestAPIService\RestAPIService\obj\Debug\net8.0\RestAPIService.sourcelink.json
