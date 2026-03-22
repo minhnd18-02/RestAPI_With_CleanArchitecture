@@ -9,3 +9,4 @@ D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIServic
 D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\refint\RestAPIService.Domain.dll
 D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.pdb
 D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\ref\RestAPIService.Domain.dll
+D:\Documents\RestAPIService\RestAPIService.Domain\obj\Debug\net8.0\RestAPIService.Domain.sourcelink.json

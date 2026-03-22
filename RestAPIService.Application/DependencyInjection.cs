@@ -14,6 +14,7 @@ namespace RestAPIService.Application
         public static IServiceCollection Services(this IServiceCollection services)
         {
             services.AddScoped<IAuthService, AuthService>();
+            services.AddScoped<IUserService, UserService>();
 
             return services;
         }

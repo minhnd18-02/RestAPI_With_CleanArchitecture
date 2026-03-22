@@ -9,5 +9,6 @@ namespace RestAPIService.Domain.Interfaces
 {
     public interface IUserRepo : IGenericRepo<User>
     {
+        Task<IEnumerable<User>> GetAsync();
     }
 }
