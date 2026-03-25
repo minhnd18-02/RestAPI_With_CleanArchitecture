@@ -15,6 +15,7 @@ namespace RestAPIService.Application
         {
             services.AddScoped<IAuthService, AuthService>();
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IProductService, ProductService>();
 
             return services;
         }

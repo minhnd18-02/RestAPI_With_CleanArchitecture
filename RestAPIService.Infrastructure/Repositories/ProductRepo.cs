@@ -1,4 +1,5 @@
-﻿using RestAPIService.Domain.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using RestAPIService.Domain.Entities;
 using RestAPIService.Domain.Interfaces;
 using RestAPIService.Infrastructure.Data;
 using System;
@@ -13,6 +14,21 @@ namespace RestAPIService.Infrastructure.Repositories
     {
         public ProductRepo(ApiContext context) : base(context)
         {
+        }
+
+        public async Task<Product?> GetById(int id)
+        {
+            return await _context.Products
+                .Include(x => x.Category)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(x => x.Id == id);
+        }
+
+        public IQueryable<Product> GetAs()
+        {
+            return _dbSet
+                .AsNoTracking()
+                .Include(x => x.Category);
         }
     }
 }

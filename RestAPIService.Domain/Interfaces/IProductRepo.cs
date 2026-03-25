@@ -9,5 +9,7 @@ namespace RestAPIService.Domain.Interfaces
 {
     public interface IProductRepo : IGenericRepo<Product>
     {
+        Task<Product?> GetById(int id);
+        IQueryable<Product> GetAs();
     }
 }

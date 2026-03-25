@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\Documents\\RestAPIService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\viewmodels\\usermodel\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\viewmodels\\usermodel\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05A02ED8-6A0D-4940-9F9E-EB40332971C8}|RestAPIService\\RestAPIService.csproj|d:\\documents\\restapiservice\\restapiservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A02ED8-6A0D-4940-9F9E-EB40332971C8}|RestAPIService\\RestAPIService.csproj|solutionrelative:restapiservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\viewmodels\\ordermodel\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\viewmodels\\ordermodel\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\viewmodels\\usermodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\viewmodels\\usermodel\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\viewmodels\\ordermodel\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\viewmodels\\ordermodel\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|d:\\documents\\restapiservice\\restapiservice.domain\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|solutionrelative:restapiservice.domain\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|d:\\documents\\restapiservice\\restapiservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|solutionrelative:restapiservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E36A93-5871-4BBB-8820-84EB066AF5DD}|RestAPIService.Infrastructure\\RestAPIService.Infrastructure.csproj|d:\\documents\\restapiservice\\restapiservice.infrastructure\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E36A93-5871-4BBB-8820-84EB066AF5DD}|RestAPIService.Infrastructure\\RestAPIService.Infrastructure.csproj|solutionrelative:restapiservice.infrastructure\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|d:\\documents\\restapiservice\\restapiservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|solutionrelative:restapiservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "RestAPIService\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService\\Controllers\\UserController.cs",
-              "RelativeToolTip": "RestAPIService\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T09:33:08.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IUserRepo.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Interfaces\\IUserRepo.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Domain\\Interfaces\\IUserRepo.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Interfaces\\IUserRepo.cs",
-              "RelativeToolTip": "RestAPIService.Domain\\Interfaces\\IUserRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T09:23:10.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Infrastructure\\Repositories\\UserRepo.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Infrastructure\\Repositories\\UserRepo.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Infrastructure\\Repositories\\UserRepo.cs",
-              "RelativeToolTip": "RestAPIService.Infrastructure\\Repositories\\UserRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T09:21:10.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateUserRequest.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\UserModel\\UpdateUserRequest.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Application\\ViewModels\\UserModel\\UpdateUserRequest.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\UserModel\\UpdateUserRequest.cs",
-              "RelativeToolTip": "RestAPIService.Application\\ViewModels\\UserModel\\UpdateUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T09:06:14.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserResponse.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\UserModel\\UserResponse.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Application\\ViewModels\\UserModel\\UserResponse.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\UserModel\\UserResponse.cs",
-              "RelativeToolTip": "RestAPIService.Application\\ViewModels\\UserModel\\UserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T09:03:40.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\IServices\\IUserService.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Application\\IServices\\IUserService.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\IServices\\IUserService.cs",
-              "RelativeToolTip": "RestAPIService.Application\\IServices\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T09:03:01.879Z",
+              "WhenOpened": "2026-03-25T18:46:50.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Application\\Services\\UserService.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "RestAPIService.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAADwv3sAAAAAAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Application\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "RestAPIService.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T09:02:46.763Z",
+              "WhenOpened": "2026-03-25T18:42:43.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "RestAPIService.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:33:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "RelativeToolTip": "RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:31:19.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
+              "RelativeToolTip": "RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:35:08.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\IServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Application\\IServices\\IOrderService.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\IServices\\IOrderService.cs",
+              "RelativeToolTip": "RestAPIService.Application\\IServices\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:32:59.772Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using RestAPIService.Application.ViewModels.ProductModel;
 using RestAPIService.Application.ViewModels.RegisterModel;
 using RestAPIService.Application.ViewModels.UserModel;
 using RestAPIService.Domain.Entities;
@@ -18,6 +19,8 @@ namespace RestAPIService.Application
             CreateMap<User, RegisterReponse>().ReverseMap();
             CreateMap<User, UpdateUserRequest>().ReverseMap();
             CreateMap<User, UserResponse>().ReverseMap();
+            CreateMap<Product, ProductRequest>().ReverseMap();
+            CreateMap<Product, ProductResponse>().ReverseMap();
         }
     }
 }
