@@ -15,5 +15,6 @@ namespace RestAPIService.Domain.Interfaces
         Task RemoveAsync(T entity);
         Task UpdateAsync(T entity);
         Task<T?> FindEntityAsync(Expression<Func<T, bool>> predicate);
+        IQueryable<T> Filter();
     }
 }

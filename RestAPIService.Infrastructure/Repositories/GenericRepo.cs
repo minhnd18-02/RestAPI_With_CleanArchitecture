@@ -52,5 +52,10 @@ namespace RestAPIService.Infrastructure.Repositories
         {
             return await _dbSet.FirstOrDefaultAsync(predicate);
         }
+
+        public IQueryable<T> Filter()
+        {
+            return _dbSet;
+        }
     }
 }

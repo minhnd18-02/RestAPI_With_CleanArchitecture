@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\Documents\\RestAPIService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|d:\\documents\\restapiservice\\restapiservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|solutionrelative:restapiservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05A02ED8-6A0D-4940-9F9E-EB40332971C8}|RestAPIService\\RestAPIService.csproj|d:\\documents\\restapiservice\\restapiservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A02ED8-6A0D-4940-9F9E-EB40332971C8}|RestAPIService\\RestAPIService.csproj|solutionrelative:restapiservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|d:\\documents\\restapiservice\\restapiservice.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|solutionrelative:restapiservice.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\viewmodels\\ordermodel\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\viewmodels\\ordermodel\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\viewmodels\\ordermodel\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\viewmodels\\ordermodel\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|d:\\documents\\restapiservice\\restapiservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428C61B-91D1-46C1-8402-36005C7B7955}|RestAPIService.Domain\\RestAPIService.Domain.csproj|solutionrelative:restapiservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|d:\\documents\\restapiservice\\restapiservice.application\\viewmodels\\ordermodel\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD6204-4D42-4F37-B079-F7193FFCA62D}|RestAPIService.Application\\RestAPIService.Application.csproj|solutionrelative:restapiservice.application\\viewmodels\\ordermodel\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "RestAPIService.Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Application\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "RestAPIService.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T18:39:01.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Domain\\Entities\\Order.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "RestAPIService.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T18:33:46.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderRequest.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\OrderRequest.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Application\\ViewModels\\OrderModel\\OrderRequest.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\OrderRequest.cs",
-              "RelativeToolTip": "RestAPIService.Application\\ViewModels\\OrderModel\\OrderRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T18:31:19.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderResponse.cs",
-              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
-              "RelativeDocumentMoniker": "RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
-              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
-              "RelativeToolTip": "RestAPIService.Application\\ViewModels\\OrderModel\\OrderResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T15:35:08.591Z",
+              "WhenOpened": "2026-03-25T18:42:43.152Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +57,60 @@
               "RelativeDocumentMoniker": "RestAPIService.Application\\IServices\\IOrderService.cs",
               "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\IServices\\IOrderService.cs",
               "RelativeToolTip": "RestAPIService.Application\\IServices\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T15:32:59.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "RestAPIService.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:46:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "RelativeToolTip": "RestAPIService.Application\\ViewModels\\OrderModel\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:31:19.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "RestAPIService\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "RestAPIService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vzEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:01:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingConfiguration.cs",
+              "DocumentMoniker": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\MappingConfiguration.cs",
+              "RelativeDocumentMoniker": "RestAPIService.Application\\MappingConfiguration.cs",
+              "ToolTip": "D:\\Documents\\RestAPIService\\RestAPIService.Application\\MappingConfiguration.cs",
+              "RelativeToolTip": "RestAPIService.Application\\MappingConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:47:50.937Z",
               "EditorCaption": ""
             }
           ]

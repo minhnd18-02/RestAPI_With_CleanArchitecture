@@ -12,7 +12,7 @@ namespace RestAPIService.Application.IServices
     public interface IOrderService
     {
         Task<ServiceReponse<OrderResponse>> AddOrder(CreateOrderRequest orderRequest);
-        Task<ServiceReponse<OrderResponse>> GetOrderByUserId(int userId);
-        Task<ServiceReponse<OrderResponse>> UpdateStatusOrder(OrderStatus status);
+        Task<ServiceReponse<IEnumerable<OrderResponse>>> GetOrderByUserId(int userId);
+        Task<ServiceReponse<OrderResponse>> UpdateOrder(UpdateOrderRequest request);
     }
 }

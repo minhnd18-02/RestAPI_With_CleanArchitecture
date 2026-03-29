@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using RestAPIService.Application.ViewModels.OrderModel;
 using RestAPIService.Application.ViewModels.ProductModel;
 using RestAPIService.Application.ViewModels.RegisterModel;
 using RestAPIService.Application.ViewModels.UserModel;
@@ -21,6 +22,10 @@ namespace RestAPIService.Application
             CreateMap<User, UserResponse>().ReverseMap();
             CreateMap<Product, ProductRequest>().ReverseMap();
             CreateMap<Product, ProductResponse>().ReverseMap();
+            CreateMap<Order, OrderResponse>()
+                .ForMember(dest => dest.Items, opt => opt.MapFrom(src => src.OrderItems));
+            CreateMap<OrderItem, OrderItemResponse>().ReverseMap();
+            CreateMap<OrderItemRequest, OrderItem>();
         }
     }
 }
