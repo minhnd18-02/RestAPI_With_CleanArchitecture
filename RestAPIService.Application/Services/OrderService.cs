@@ -160,7 +160,7 @@ namespace RestAPIService.Application.Services
                 }
 
                 // 🔥 Xóa item cũ
-                _unitOfWork.OrderItemRepo.RemoveAsync(order.OrderItems.FirstOrDefault());
+                await _unitOfWork.OrderItemRepo.RemoveAsync(order.OrderItems.FirstOrDefault());
 
                 decimal total = 0;
                 var newItems = new List<OrderItem>();
